@@ -1,0 +1,77 @@
+.header {
+  background: url(.../images/hero.jpg);
+  image-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  display: flex;
+  width: 100%;
+}
+
+h1 {
+  font-size: 30px;
+  font-color: rgb(34, 34, 34);
+  font-family: sans-serif;
+  padding-bottom: 0px;
+}
+
+h2 {
+  font-size: 20px;
+  font-color: rgb(34, 34, 34);
+  font-family: sans-serif;
+  padding-bottom: 0px;
+}
+
+p {
+  font-size: 16px;
+  font-color: rgb(34, 34, 34);
+  font-family: sans-serif;
+}
+
+.full-description {
+  font-size: 20px;
+  width: 650px;
+}
+
+.description {
+  font-size: 18px;
+  width: 550px;
+}
+
+.block-1 {
+  height: 400px;
+  width: 250px;
+  border-radius: 50px;
+  margin: 10px
+  margin-bottom: 60px;
+  padding-bottom: 60px;
+}
+
+.block-1 img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.block-1 p {
+  font-size: 14px;
+  font-color: rgb(34, 34, 34);
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin: 2px;
+}
+
+.block-1 .caps {
+  font-size: 10px;
+  font-color: rgb(34, 34, 34);
+  font-weight: lighter;
+}
+
+.block-1 .bold {
+  font-weight: bold;
+  font-color: rgb(34, 34, 34);
+  padding: 1px;
+}
+
+.block-1 .small-text {
+  font-size: 12px;
+  padding: 2px;
+}
